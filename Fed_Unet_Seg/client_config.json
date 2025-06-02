@@ -1,0 +1,21 @@
+{
+    "clients": [
+        {
+            "name": "data_name1",
+            "img_dir": "Image_root1",
+            "mask_dir": "Mask1"
+        },
+        {
+            "name": "data_name2",
+            "img_dir": "Image_root2",
+            "mask_dir": "Mask_root2"
+        }
+    ],
+    "server":[
+        {
+            "name": "data_name",
+            "img_dir": "Image_root",
+            "mask_dir": "Mask_root"
+        }
+    ]
+}

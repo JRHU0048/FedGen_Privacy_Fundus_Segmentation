@@ -1,0 +1,12 @@
+torch>=2.4.1+cu121
+torchaudio==2.4.1+cu121
+torchmetrics==1.5.2
+torchvision==0.19.1+cu121
+numpy>=1.23.5
+pandas>=2.0.3
+scikit-learn>=1.3.2
+tqdm>=4.64.1
+dominate>=2.4.0
+visdom>=0.1.8.8
+packaging
+GPUtil>=1.4.0
