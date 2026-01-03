@@ -1,6 +1,6 @@
 # 🚀 Federated Generation and Fusion for Privacy-Preserving Cross-Domain Multi-Site Optic Disc and Cup Segmentation
 
-This is the official PyTorch implementation for the paper "Privacy-Preserving Federated Generation Framework for Cross-Domain Multi-Site Fundus Image Segmentation"!
+This is the official PyTorch implementation for the paper "Federated Generation and Fusion for Privacy-Preserving Cross-Domain Multi-Site Optic Disc and Cup Segmentation"!
 
 ## Framework
 ![](fig/framework.png)
