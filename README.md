@@ -3,7 +3,7 @@
 This is the official PyTorch implementation for the paper "Federated Generation and Fusion for Privacy-Preserving Cross-Domain Multi-Site Optic Disc and Cup Segmentation"!
 
 ## Framework
-![](fig/framework.png)
+![](fig/framework1.png)
 
 ## Experimental Result
 ![](fig/results0.png)
